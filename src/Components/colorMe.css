@@ -1,0 +1,15 @@
+.main-div {
+  display: flex;
+  justify-content: center;
+}
+
+.right-div {
+  width: 200px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.elements {
+  width: 60px;
+  height: 60px;
+}
